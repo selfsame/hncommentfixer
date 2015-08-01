@@ -1,0 +1,1 @@
+Array.prototype.map.call(document.querySelectorAll(".comment"),function(e){e.innerHTML="Very interesting!";});
